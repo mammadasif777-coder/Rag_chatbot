@@ -1,0 +1,4 @@
+flask
+pypdf
+chromadb
+google-genai
