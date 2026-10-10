@@ -24,4 +24,3 @@ Open http://127.0.0.1:5000, upload a text-based PDF, and ask questions.
 - Get a free API key from Google AI Studio
 - Scanned PDFs are not supported
 - Never commit your API key
-Practice edit
